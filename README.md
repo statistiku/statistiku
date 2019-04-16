@@ -66,6 +66,8 @@ Statistiku offers a full free web-based data analytics tool with a beautiful use
   - [F Test](https://statistiku.com/documentation/data-analysis/compare/f-test)
 * Causal Analysis
   - [Linear Regression](https://statistiku.com/documentation/data-analysis/causal/regression)
+* Multivariate
+  - [Multivariate Normal Q-Q Plot](https://statistiku.com/documentation/data-analysis/multivariate/qqplot-multivariate)
 * Others
   - [Custom Script](https://statistiku.com/documentation/data-analysis/others/custom-script)
 

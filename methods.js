@@ -49,13 +49,13 @@ methods = {
 		// 'chisquare': 'Chi-Square Test of Independence',
 		// 'runs': 'Runs Test',
 	// }],
-	// 'multivariate': ['Multivariate', {
-		// 'qqplot-multivariate': 'Multivariate Normal Q-Q Plot',
+	'multivariate': ['Multivariate', {
+		'qqplot-multivariate': 'Multivariate Normal Q-Q Plot',
 		// 'mardia-test': 'Mardia\'s Test',
 		// 'manova': 'MANOVA',
 		// 'biplot': 'Biplot',
 		// 'pca': 'Principal Component Analysis',
-	// }],
+	}],
 	// 'timeseries': ['Time Series', {
 		// 'semi-average': 'Semi-Average',
 		// 'least-square': 'Linear Least Square',
