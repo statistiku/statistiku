@@ -18,7 +18,7 @@
   <a href="https://statistiku.com/about/">About</a>
 </p>
 
-<img src="https://statistiku.com/img/statistiku-insight.gif" alt="Statistiku Demo">
+<img src="https://statistiku.com/img/statistiku-overview.gif" alt="Statistiku Demo">
 
 Statistiku is a nonprofit startup that specialises in **data visualization** and **statistical analysis**. Our mission is to provide a simple but powerful data analytics tool for anyone, anywhere, at anytime.
 
